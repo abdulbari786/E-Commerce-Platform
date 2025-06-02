@@ -28,7 +28,7 @@
 
 In this video tutorial, you'll learn how to build a fully functional ecommerce platform using modern web technologies such as Next.js 15, Tailwind CSS v4, Stripe for payments, and Zustand for state management. This project focuses on building a sleek, responsive frontend with a secure payment flow—without using a backend database like Prisma, Postgres, or Neon.
 
-Watch the tutorial on [YouTube](https://youtu.be/YOUR_VIDEO_LINK).
+
 
 ## ⚙️ Tech Stack
 
