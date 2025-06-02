@@ -14,12 +14,6 @@
     <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge" alt="Zustand" />
   </div>
   <h3 align="center">Build a Modern Ecommerce Platform</h3>
-  <div align="center">
-    Follow along with our detailed tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank"><b>YouTube</b></a>
-  </div>
-  <br />
-</div>
 
 ## 📋 Table of Contents
 
